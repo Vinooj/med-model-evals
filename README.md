@@ -20,116 +20,61 @@ The system prompt grounds all responses in medical expertise while maintaining s
 
 ## Models Included
 
+The tool is configured to support the following models. You can enable/disable specific models by commenting them out in `medical_model_runner.py`.
+
 ### Generative Medical Models (Text Generation)
 
 1. **Google MedGemma 27B** (`google/medgemma-27b-text-it`)
    - 27B parameter text-only model
    - Instruction-tuned for medical reasoning
-   - Optimized for inference-time computation
-   - Trained on PubMed articles and medical text
 
 2. **PMC-LLaMA 13B** (`axiong/PMC_LLaMA_13B`)
    - 13B parameter model
-   - Fine-tuned on 4.8M PubMed papers and medical textbooks
-   - Instruction-tuned for medical question-answering
+   - Fine-tuned on 4.8M PubMed papers
 
 3. **BioMedLM 2.7B** (`stanford-crfm/BioMedLM`)
    - 2.7B parameter GPT-style model
-   - Trained exclusively on PubMed abstracts and full articles
-   - State-of-the-art on MedQA and other biomedical benchmarks
-
-### Encoder Medical Models (Embedding Generation)
-
-1. **BioLinkBERT-large** (`michiyasunaga/BioLinkBERT-large`)
-   - 340M parameter BERT model
-   - Pretrained on PubMed with citation links
-   - State-of-the-art on BLURB and MedQA-USMLE
-
-2. **BiomedBERT** (`microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext`)
-   - 110M parameter BERT model
-   - Pretrained from scratch on PubMed abstracts and full-text articles
-   - Microsoft's domain-specific biomedical model
-
-3. **SapBERT** (`cambridgeltl/SapBERT-from-PubMedBERT-fulltext`)
-   - 110M parameter model
-   - Self-aligned pretraining for entity representations
-   - Trained on UMLS 2020AA with 4M+ biomedical concepts
-   - Optimized for medical entity linking
+   - Trained on PubMed abstracts and full articles
 
 ### Proprietary Models (API-based)
 
 1. **GPT-4o** (`gpt-4o`)
-   - Latest OpenAI model
-   - Multimodal capabilities
-   - Strong general and medical reasoning
+   - OpenAI's latest flagship model
 
-2. **Gemini 1.5 Pro** (`gemini-1.5-pro-002`)
-   - Latest Google Gemini model
-   - Large context window
-   - Advanced reasoning capabilities
+2. **Gemini 3 Pro Preview** (`gemini-3-pro-preview`)
+   - Google's latest experimental model
 
-## Changes Made
+## Configuration
 
-### Critical Fixes
+To select which models to run, edit `medical_model_runner.py`:
 
-1. **Model Path Corrections:**
-   - ❌ `google/medgemma-27b-it` → ✅ `google/medgemma-27b-text-it` (text-only variant exists)
-   - ❌ `StanfordAIMI/BioMedLM` → ✅ `stanford-crfm/BioMedLM` (correct organization)
+```python
+# Uncomment models you want to run
+MODELS_HF_GEN = [
+    "google/medgemma-27b-text-it",
+    # "axiong/PMC_LLaMA_13B", 
+]
 
-2. **Gemini Model Update:**
-   - ❌ `gemini-1.5-pro` → ✅ `gemini-1.5-pro-002` (latest stable version)
-
-3. **Enhanced Error Handling:**
-   - Added try-catch blocks for all API calls
-   - Better error messages with specific failure information
-   - Graceful degradation when models fail
-
-4. **Device Management:**
-   - Added GPU detection and automatic device placement for encoder models
-   - Proper tensor device management to avoid CUDA errors
-
-5. **Code Improvements:**
-   - Added `trust_remote_code=True` for models requiring it
-   - UTF-8 encoding for output files
-   - Progress indicators during execution
-   - Better user feedback with ✓/✗ symbols
-
-## Requirements
-
-```bash
-pip install torch transformers openai google-generativeai bitsandbytes accelerate
+OPENAI_MODELS = ["gpt-4o"] 
+GEMINI_MODELS = [] # ["gemini-3-pro-preview"]
 ```
-
-### System Requirements
-
-- **For generative models (27B):** 
-  - GPU with 24GB+ VRAM (RTX 3090/4090, A5000, A6000)
-  - Or use 4-bit quantization (included in code)
-  
-- **For encoder models:**
-  - GPU with 8GB+ VRAM recommended
-  - CPU fallback available
-
-- **For API models:**
-  - Active internet connection
-  - Valid API keys
 
 ## Setup
 
 ### 1. Install Dependencies
 
 ```bash
-pip install torch transformers openai google-generativeai bitsandbytes accelerate
+pip install torch transformers openai google-generativeai bitsandbytes accelerate sentencepiece protobuf
 ```
 
 ### 2. Set Up API Keys
 
 ```bash
 # OpenAI API Key
-export OPENAI_API_KEY="your-openai-api-key"
+export OPENAI_API_KEY="your-key"
 
 # Google Gemini API Key
-export GEMINI_API_KEY="your-gemini-api-key"
+export GEMINI_API_KEY="your-key"
 ```
 
 Or create a `.env` file:
