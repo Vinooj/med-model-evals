@@ -1,0 +1,17 @@
+Okay, let's break down the development of treatment resistance in metastatic breast cancer (MBC). It's a complex process and varies significantly based on several factors. Here’s an overview covering first through fourth-line therapies:
+
+**Understanding Treatment Resistance in MBC:**
+
+*   **Heterogeneity:** Metastatic tumors are not uniform. They contain diverse populations of cells with different genetic mutations and characteristics. Some may be inherently resistant to certain drugs from the start, while others acquire resistance over time.
+*   **Evolutionary Process:** Cancer cells evolve under selective pressure from treatments. Drugs kill susceptible cells, leaving behind those that can survive and proliferate, leading to acquired resistance.
+*   **Mechanisms of Resistance:** Resistance can arise through various mechanisms, including target mutation/alteration, drug efflux pumps, pathway activation bypasses, epigenetic changes, and alterations in cell death pathways.
+*   **Tumor Biology Matters:** The specific subtype of breast cancer (e.g., HR+/HER2-, HER2+, Triple Negative) heavily influences which therapies are used and how quickly resistance develops. Hormone receptor status, HER2 amplification, and other biomarkers play crucial roles.
+
+**Resistance Rates by Line of Therapy (Approximate Estimates):**
+
+It's important to note these are *estimates*, as precise percentages vary widely across studies, patient populations, tumor subtypes, and definitions of "resistance" (clinical progression vs. biomarker change). Also, data often focuses on specific lines rather than cumulative rates across all lines.
+
+1.  **First-Line Systemic Therapy:**
+    *   **HR+/HER2- MBC:** This is the most common type (~60-70% of MBC cases). First-line typically involves endocrine therapy (ET), sometimes combined with CDK4/6 inhibitors (like palbociclib, ribociclib, abemacicib) or PI3K inhibitors (alpelisib if PIK3CA mutated).
+        *   **Endocrine Therapy Alone:** A significant proportion of patients will progress within **~9-18 months**. While exact figures vary, it's reasonable to estimate that **a large majority (>50%, potentially up to ~80%)** will experience clinical progression requiring a switch in therapy within this timeframe.
+        *   **Endocrine Therapy + CDK4/6 Inhibitor:** These combinations have improved PFS compared to ET alone, but resistance still occurs. Progression might take longer (**~18-30+ months

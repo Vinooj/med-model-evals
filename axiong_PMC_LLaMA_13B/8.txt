@@ -1,0 +1,1 @@
+Mutations in common pathways may be shared across different breast cancer subtypes. However, there are differences as well. For example, triple-negative (TN) tumors have more copy number variations than other molecular subtypes of breast cancer.

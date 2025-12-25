@@ -1,0 +1,31 @@
+In breast cancer, different histological subtypes exhibit distinct mutation patterns, although there are some overlaps. Here's a general overview of how mutation patterns can vary among different histologies:
+
+1. **Invasive Ductal Carcinoma (IDC):**
+   - IDC is the most common type of breast cancer and often shows mutations in genes such as TP53, PIK3CA, and GATA3.
+   - TP53 mutations are associated with more aggressive forms of IDC.
+   - PIK3CA mutations are common in hormone receptor-positive subtypes of IDC.
+
+2. **Invasive Lobular Carcinoma (ILC):**
+   - ILC is characterized by mutations in the CDH1 gene, which encodes the protein E-cadherin. Loss of E-cadherin function is a hallmark of ILC.
+   - PIK3CA mutations are also common in ILC, similar to IDC.
+   - Mutations in FOXA1 and GATA3 can also be present, although less frequently than in IDC.
+
+3. **Inflammatory Breast Cancer (IBC):**
+   - IBC is a rare and aggressive form of breast cancer. It often shows high rates of TP53 mutations.
+   - There is also a higher prevalence of mutations in genes involved in cell cycle regulation and DNA repair.
+   - The molecular profile of IBC can overlap with that of triple-negative breast cancer (TNBC), which lacks estrogen, progesterone, and HER2 receptors.
+
+4. **Triple-Negative Breast Cancer (TNBC):**
+   - TNBC is not a histological subtype but a molecular one, often associated with basal-like histology.
+   - It frequently exhibits TP53 mutations and may have BRCA1/2 mutations, especially in hereditary cases.
+   - Other mutations can include those in genes like RB1 and PTEN.
+
+5. **HER2-Enriched Subtypes:**
+   - These subtypes are characterized by amplification of the HER2 gene.
+   - They often have concurrent mutations in PIK3CA and TP53.
+
+**Overlap and Differences:**
+- **Overlap:** PIK3CA mutations are common across several subtypes, particularly in hormone receptor-positive cancers. TP53 mutations are also prevalent in more aggressive forms like TNBC and IBC.
+- **Differences:** CDH1 mutations are specific to ILC due to the loss of E-cadherin. HER2 amplification is specific to HER2-enriched subtypes. The presence of BRCA1/2 mutations is more common in TNBC, especially in hereditary cases.
+
+These mutation patterns can influence treatment decisions and prognostic assessments, as certain mutations may confer sensitivity or resistance to specific therapies. It's important to note that the molecular landscape of breast cancer is complex, and ongoing research continues to refine our understanding of these patterns.

@@ -1,0 +1,13 @@
+**Predicting Chemotherapy Resistance via Gene Mutations in Neoadjuvant Setting:**
+
+Yes, certain gene mutations can indeed predict primary or acquired chemoresistance *before* surgery (neoadjuvant) and potentially guide treatment decisions. However, it's a complex area with ongoing research. Here’s a breakdown of key points:
+
+1.  **Established Biomarkers & Tumor Types:**
+    *   **HER2 Amplification/Overexpression (Breast Cancer):** While not strictly a mutation predicting *intrinsic* resistance, HER2 status is crucial for selecting anti-HER2 therapies (like trastuzumab). Tumors lacking HER2 may respond differently to standard chemotherapy regimens compared to those overexpressing it. High HER2 amplification might correlate with reduced response to some cytotoxic agents but enhanced sensitivity to targeted therapy.
+    *   **BRCA1/2 Mutations (Ovarian, Breast, Prostate Cancers):** Germline or somatic BRCA mutations often confer sensitivity to PARP inhibitors and platinum-based chemotherapies due to defects in DNA repair pathways. Conversely, lack of BRCA mutations might suggest different optimal strategies.
+    *   **TP53 Mutations (Many Solid Tumors):** TP53 is a critical tumor suppressor involved in cell cycle arrest and apoptosis. Mutations in TP53 are common across many cancers (e.g., breast, ovarian, lung, colorectal) and frequently associated with increased chemoresistance, aggressive behavior, and poorer prognosis. Specific "hotspot" mutations have been identified.
+    *   **KRAS Mutations (Colorectal, Pancreatic, Lung Cancers):** Activating KRAS mutations drive proliferation and survival signaling. They are well-known predictors of resistance to EGFR inhibitors (in NSCLC) and cetuximab/panitumumab (in CRC), although their direct impact on traditional chemotherapy efficacy varies depending on the drug and cancer type. For example, KRAS wild-type tumors generally benefit more from anti-EGFR therapy than mutant ones.
+    *   **PIK3CA Mutations (Breast Cancer):** These activating mutations in the PI3K pathway are linked to endocrine resistance (to tamoxifen/aromatase inhibitors) and sometimes chemoresistance, particularly in ER+/HER2- breast cancers.
+    *   **Other Genes:** Research continues to identify other potential predictive markers like alterations in genes related to drug efflux pumps (ABCB1/MDR1), detoxification enzymes (GSTs), DNA damage repair (other than BRCA), and apoptotic pathways.
+
+2

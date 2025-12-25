@@ -1,0 +1,57 @@
+When a tumor develops resistance to a targeted therapy, the expression levels of the target gene—or the nature of the mutation itself—rarely stay static. The tumor evolves under the "selective pressure" of the drug.
+
+While the specific mechanisms vary by gene and drug class, the changes generally fall into three categories: **Restoration of Function** (fixing the broken gene), **Target Modification** (changing the lock so the key doesn't fit), or **Bypass Signaling** (using a different road).
+
+Here is how expression levels and mutational status change for the specific markers you mentioned upon the development of resistance.
+
+---
+
+### 1. BRCA1/2 (Context: PARP Inhibitors)
+*Therapy:* PARP inhibitors (e.g., olaparib) rely on "synthetic lethality." Because BRCA-mutant cells cannot repair double-strand DNA breaks, blocking PARP (which repairs single-strand breaks) kills the cell.
+*Resistance Mechanism:* **Reversion Mutations (Restoration of Function)**
+
+*   **How it changes:** The most common mechanism of resistance is not a change in the *amount* of BRCA protein, but a change in its *sequence*. The tumor acquires a secondary mutation that "corrects" the original frameshift mutation.
+*   **The Result:** The tumor starts expressing **functional BRCA protein** again.
+    *   *Expression Level:* The level of **functional** protein increases (restoring Homologous Recombination repair).
+    *   *Alternative:* Sometimes the tumor does not change BRCA, but instead decreases the expression of **53BP1**. 53BP1 normally blocks DNA resection; when its expression drops, the cell can bypass the need for BRCA1, leading to resistance.
+
+### 2. MSI-H / dMMR (Context: Immunotherapy/Checkpoint Inhibitors)
+*Therapy:* Microsatellite Instability-High (MSI-H) tumors have broken Mismatch Repair (MMR) systems. This creates many mutations (neoantigens), making them highly visible to the immune system and sensitive to PD-1/PD-L1 inhibitors.
+*Resistance Mechanism:* **Antigen Presentation Loss (Hiding from the Immune System)**
+
+*   **How it changes:** Resistance here is rarely about "fixing" the MMR genes. Instead, the tumor stops expressing the machinery required to show those antigens to T-cells.
+*   **The Result:**
+    *   **B2M (Beta-2-microglobulin) Loss:** The tumor acquires mutations that stop the expression of B2M. Without B2M, the cell cannot express MHC Class I on its surface. The expression level of surface MHC **decreases to near zero**.
+    *   **JAK1/JAK2 Mutation:** The tumor mutates these genes to shut down the Interferon-Gamma signaling pathway. This prevents the immune system from upregulating PD-L1, rendering the checkpoint inhibitor useless.
+
+### 3. RET Fusions/Mutations (Context: RET Inhibitors)
+*Therapy:* Drugs like selpercatinib or pralsetinib target RET fusions (lung cancer) or mutations (thyroid cancer).
+*Resistance Mechanism:* **Target Modification or Bypass**
+
+*   **How it changes:**
+    *   **Solvent Front Mutations:** The tumor develops a secondary mutation *on top of* the original RET mutation (e.g., RET G810). The expression level of RET remains high, but the protein's physical shape changes, preventing the drug from binding.
+    *   **Bypass Amplification:** The tumor may keep RET expression the same but drastically **increase the expression (amplification)** of other drivers like **MET** or **KRAS**. This allows the tumor to grow even if RET is successfully blocked.
+
+### 4. PIK3CA (Context: PI3K Inhibitors)
+*Therapy:* Drugs like alpelisib target the alpha isoform of PI3K in breast cancer.
+*Resistance Mechanism:* **Pathway Reactivation**
+
+*   **How it changes:**
+    *   **PTEN Loss:** PTEN is the natural "brake" for the PI3K pathway. Resistance often involves the loss of PTEN expression. Even if you inhibit PI3K, the lack of the brake keeps the pathway running.
+    *   **PIK3CA Amplification:** In some cases, the tumor simply amplifies the gene, producing **massive amounts of the mutated PIK3CA protein**. This creates a stoichiometric problem: there is simply too much target protein for the drug to inhibit effectively.
+    *   **Insulin Feedback:** Systemic insulin levels rise in response to the drug (a side effect), which activates insulin receptors on the tumor, increasing upstream signaling that overwhelms the inhibitor.
+
+---
+
+### Summary Table of Changes
+
+| Gene/Target | Primary Therapy | Mechanism of Resistance | Change in Expression/Status |
+| :--- | :--- | :--- | :--- |
+| **BRCA1/2** | PARP Inhibitors | Reversion | **Functional protein expression returns** (reading frame restored). |
+| **MSI-H** | Immunotherapy | Immune Evasion | **Decrease** in MHC Class I expression (via B2M loss). |
+| **RET** | RET Inhibitors | Secondary Mutation | Expression stays high, but **protein structure changes** (drug cannot bind). |
+| **PIK3CA** | PI3K Inhibitors | Amplification or Bypass | **Increase** in target protein (amplification) or **Decrease** in suppressor (PTEN). |
+
+### The "Phenotypic Switch"
+Finally, it is important to note that sometimes the tumor changes its "identity" entirely to resist drugs.
+*   **Example:** In EGFR-mutant lung cancer treated with targeted therapy (Osimertinib), the tumor may undergo **Small Cell Transformation**. It stops expressing EGFR markers and starts expressing neuroendocrine markers (like Synaptophysin). The original mutation is still there, but the cell no longer relies on it for survival.

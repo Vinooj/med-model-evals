@@ -1,0 +1,20 @@
+Yes, both radiotherapy (RT) and chemotherapy (CT) can significantly alter gene expression levels in cancer cells and surrounding normal tissues. Furthermore, there is evidence suggesting that the order and combination of these treatments can influence each other's effects at the molecular level, including gene expression patterns.
+
+Here's a breakdown of how each treatment affects gene expression and their potential interactions:
+
+**Radiotherapy (RT):**
+
+*   **Mechanism:** RT damages DNA directly or indirectly through reactive oxygen species (ROS). This damage triggers cellular responses aimed at repair, survival, or death (apoptosis/necrosis). These processes involve complex signaling pathways and changes in gene transcription.
+*   **Gene Expression Changes:**
+    *   **Upregulation:** Genes involved in DNA repair (e.g., BRCA1, ATM), cell cycle arrest (e.g., p21/CDKN1A), apoptosis (e.g., BAX, PUMA), stress response (e.g., HSP70), angiogenesis (e.g., VEGF), and inflammation are often upregulated following RT.
+    *   **Downregulation:** Some genes related to proliferation might be downregulated as part of the cell cycle checkpoint activation.
+    *   **Specific Examples:** Studies have shown alterations in genes like *EGFR*, *TGFB1*, *JUN*, *FOS*, and various microRNAs (miRNAs) after RT exposure. The specific pattern depends on the dose, fractionation schedule, tumor type, and tissue context.
+*   **Long-term Effects:** Gene expression changes induced by RT can persist long after treatment completion, potentially contributing to late side effects or influencing future therapeutic responses.
+
+**Chemotherapy (CT):**
+
+*   **Mechanism:** CT drugs target rapidly dividing cells, primarily interfering with DNA replication, RNA synthesis, microtubule function, or inducing DNA damage. Like RT, this triggers downstream signaling cascades affecting gene expression.
+*   **Gene Expression Changes:**
+    *   **Upregulation:** Similar to RT, genes associated with DNA damage response (DDR), apoptosis (e.g., CASP3, BBC3/PUMA), drug resistance mechanisms (e.g., MDR1/ABCB1 encoding P-glycoprotein), detoxification enzymes (e.g., GSTs), and stress response proteins are frequently upregulated.
+    *   **Downregulation:** Genes promoting uncontrolled growth may decrease due to cell cycle inhibition or induction of apoptosis.
+    *   **Drug Specificity:**

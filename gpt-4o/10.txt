@@ -1,0 +1,9 @@
+The development of resistance in metastatic cancer patients varies significantly depending on the type of therapy, the specific cancer type, and individual patient factors. Here's a general overview:
+
+1. **Immunotherapy (PD-1/PD-L1 inhibitors):** Resistance to immunotherapy can develop within months to a few years. Some patients may experience primary resistance (no initial response), while others may develop acquired resistance after an initial period of response. On average, progression-free survival (PFS) for patients on PD-1/PD-L1 inhibitors can range from 6 to 24 months, but this varies widely.
+
+2. **Chemotherapy (e.g., doxorubicin, paclitaxel, capecitabine):** Resistance to chemotherapy often develops more quickly, typically within a few months to a year. The timeframe can depend on the specific drug, cancer type, and prior treatments. For example, resistance to paclitaxel in breast cancer might develop after 6 to 12 months of treatment.
+
+3. **Targeted Therapy (e.g., PARP inhibitors, NTRK inhibitors):** Resistance to targeted therapies can also vary. For PARP inhibitors used in BRCA-mutated cancers, resistance might develop after 8 to 16 months. NTRK inhibitors, used for tumors with NTRK gene fusions, may show resistance after a similar timeframe, although some patients experience longer durations of response.
+
+It's important to note that these are average estimates and individual patient experiences can differ significantly. Additionally, ongoing research and new treatment combinations continue to evolve the landscape of cancer therapy and resistance patterns.

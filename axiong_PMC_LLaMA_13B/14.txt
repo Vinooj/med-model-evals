@@ -1,0 +1,1 @@
+The resistance mechanisms are not yet fully understood for most targeted therapies and immunotherapies. However, there have been some proposed mechanisms such as secondary mutations within a given pathway (e.g., EGFR), emergence of alternative signaling pathways, changes in tumor microenvironment that may promote invasion and metastasis rather than affect cell death, etc.

@@ -1,0 +1,23 @@
+When a tumor develops resistance to targeted therapies, the expression levels and mutation status of genes like BRCA1/2, MSI-H, RET, and PIK3CA can change in various ways, contributing to the resistance mechanism. Here are some general patterns observed:
+
+1. **BRCA1/2**: Tumors with BRCA1/2 mutations are often sensitive to PARP inhibitors. However, resistance can develop through several mechanisms, such as:
+   - Restoration of homologous recombination repair through secondary mutations that restore the open reading frame of BRCA1/2.
+   - Upregulation of drug efflux pumps, reducing drug accumulation.
+   - Increased expression of other DNA repair proteins that compensate for BRCA1/2 deficiency.
+
+2. **MSI-H (Microsatellite Instability-High)**: Tumors with MSI-H are often sensitive to immune checkpoint inhibitors. Resistance can occur through:
+   - Loss of neoantigen expression, reducing immune recognition.
+   - Upregulation of alternative immune checkpoints or immunosuppressive pathways.
+   - Changes in the tumor microenvironment that inhibit immune cell infiltration or function.
+
+3. **RET**: RET mutations or fusions can be targeted by specific RET inhibitors. Resistance mechanisms may include:
+   - Secondary mutations in the RET gene that prevent drug binding.
+   - Activation of bypass signaling pathways, such as MET or EGFR, that can sustain tumor growth despite RET inhibition.
+   - Histological transformation to a different tumor type that is less dependent on RET signaling.
+
+4. **PIK3CA**: Mutations in PIK3CA can activate the PI3K/AKT/mTOR pathway, and inhibitors targeting this pathway can initially be effective. Resistance mechanisms include:
+   - Secondary mutations in PIK3CA or other components of the pathway that reduce drug binding or efficacy.
+   - Activation of compensatory pathways, such as the MAPK pathway, that can drive tumor growth independently of PI3K signaling.
+   - Alterations in feedback loops that enhance survival signaling.
+
+Overall, the development of resistance is often associated with genetic and epigenetic changes that restore or bypass the inhibited pathway, enhance drug efflux, or alter the tumor microenvironment. Understanding these mechanisms is crucial for developing strategies to overcome resistance and improve treatment outcomes.

@@ -1,0 +1,22 @@
+The time it takes for metastatic cancer patients to develop treatment resistance varies significantly depending on several factors. These include:
+
+*   **Type of Cancer:** Different cancers have different intrinsic rates of mutation and adaptation. Some types are inherently more prone to developing resistance quickly than others. For example, certain lung cancers or melanomas might show rapid resistance development compared to some slower-growing sarcomas.
+*   **Specific Treatment Used:** The mechanism of action of the drug influences how quickly resistance develops. Targeted therapies often face resistance due to specific mutations in the target pathway, while chemotherapy resistance is typically multifactorial involving mechanisms like increased drug efflux, altered metabolism, DNA repair enhancement, or apoptosis evasion. Immunotherapy resistance involves complex immune escape mechanisms.
+*   **Patient Factors:** Individual genetic makeup, overall health status, prior treatments, and even lifestyle factors can influence susceptibility to resistance.
+*   **Tumor Heterogeneity:** Tumors are rarely uniform; they consist of various subclones with differing sensitivities to treatment. Pre-existing resistant clones may survive initial therapy and drive relapse.
+*   **Treatment Schedule/Dosage:** Suboptimal dosing or inconsistent adherence can contribute to faster resistance development.
+
+Given this complexity, providing a single "average" timeframe is difficult. However, we can discuss typical ranges observed clinically for different classes of drugs:
+
+**Chemotherapy Resistance:**
+
+*   Resistance to standard chemotherapies (like doxorubicin, paclitaxel, cisplatin) can emerge relatively **quickly**, sometimes within **weeks to months** of starting treatment. This is particularly true if the tumor was initially sensitive but then stops responding. In many cases, response durations before progression (indicating resistance) range from **3 to 6 months**. Longer responses (>6 months) are possible but less common in advanced disease.
+
+**Targeted Therapy Resistance:**
+
+*   For targeted therapies (e.g., EGFR inhibitors in lung cancer, BRAF inhibitors in melanoma, PARP inhibitors in ovarian/breast cancer):
+    *   Initial responses can be quite good, lasting **several months to over a year** in some cases.
+    *   However, acquired resistance is almost inevitable in most settings. The median duration of benefit before resistance emerges often falls between **6 to 18 months**, heavily dependent on the specific drug, target, and cancer type.
+    *   Examples:
+        *   EGFR TKIs (lung cancer): Median PFS around 9-12 months before resistance.
+        *   BRAF/

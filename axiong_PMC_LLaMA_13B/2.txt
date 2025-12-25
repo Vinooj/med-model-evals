@@ -1,0 +1,1 @@
+Cross-resistance between radiation therapy (RT) and cytotoxic chemotherapeutics is not commonly observed. However, some drugs such as gemcitabine may sensitize tumors to RT through inhibition of the repair of DNA double strand breaks induced by ionizing radiation.

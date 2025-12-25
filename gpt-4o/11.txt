@@ -1,0 +1,15 @@
+Oncotype DX is a genomic test that analyzes the expression of 21 genes to provide both prognostic and predictive information for breast cancer patients, particularly those with early-stage, hormone receptor-positive, HER2-negative breast cancer. It helps determine the likelihood of benefit from chemotherapy and the risk of recurrence. However, it is not specifically designed to predict resistance to therapy.
+
+Regarding the prediction of resistance, Oncotype DX primarily focuses on assessing the risk of recurrence and the potential benefit from chemotherapy rather than directly predicting resistance mechanisms. Resistance to therapy often involves complex biological processes and may require more specific assays or research to identify.
+
+Other genomic assays like MammaPrint, Prosigna (PAM50), EndoPredict, and Breast Cancer Index (BCI) also provide prognostic and/or predictive information but differ in the genes they analyze and their specific applications:
+
+1. **MammaPrint**: Analyzes 70 genes to assess the risk of distant metastasis in early-stage breast cancer. It provides prognostic information but does not specifically predict resistance.
+
+2. **Prosigna (PAM50)**: Based on the expression of 50 genes, it classifies breast cancer into intrinsic subtypes and provides a risk of recurrence score. It offers prognostic information and some predictive insights but is not specifically designed to predict resistance.
+
+3. **EndoPredict**: Evaluates 12 genes to provide prognostic information for distant recurrence in hormone receptor-positive, HER2-negative breast cancer. It focuses on prognosis rather than resistance prediction.
+
+4. **Breast Cancer Index (BCI)**: Combines two gene expression profiles to assess the risk of late recurrence and the potential benefit from extended endocrine therapy. It provides prognostic and some predictive information but is not specifically focused on resistance.
+
+These assays may include some unique genes not covered by Oncotype DX, but their primary focus is on prognosis and treatment benefit rather than directly predicting resistance. Predicting resistance often requires a more detailed understanding of specific mutations or pathways involved in resistance mechanisms, which may not be fully captured by these assays. Research into specific mutations or pathways associated with resistance is ongoing, and new assays or biomarkers may emerge to address this need in the future.

@@ -1,0 +1,13 @@
+Breast cancer is a heterogeneous disease, meaning that it can present differently from person to person. This heterogeneity extends to how the tumor responds to treatment, including chemotherapy and radiotherapy. Resistance to these therapies is a major challenge in clinical practice, often leading to treatment failure and recurrence. Several genetic alterations have been identified as contributing factors to chemoresistance and radioresistance in breast cancer. These alterations affect various cellular processes involved in drug response, such as DNA repair, apoptosis, drug metabolism/transport, cell cycle regulation, and signaling pathways.
+
+Here's an overview of key gene mutations and molecular mechanisms associated with resistance to chemotherapy and radiotherapy in breast cancer:
+
+**1. Alterations in Drug Targets:**
+*   Mutations or overexpression of target proteins can render them less sensitive to drugs. For example, mutations in *TP53*, which encodes the p53 protein, are common in many cancers, including breast cancer. Loss-of-function mutations in *TP53* impair its ability to induce apoptosis in response to DNA damage caused by chemotherapy or radiation, thus promoting resistance. Overexpression of HER2 (*ERBB2*) leads to increased proliferation and survival signals, making cells resistant to certain chemotherapies like anthracyclines and taxanes. While targeted therapies against HER2 exist, intrinsic or acquired resistance can still occur due to further mutations within the pathway.
+
+**2. Enhanced DNA Repair Mechanisms:**
+*   Chemotherapy and radiotherapy primarily work by damaging DNA. Cancer cells that develop enhanced DNA repair capabilities can counteract this damage more effectively, leading to resistance. Genes involved in DNA repair include *BRCA1*, *BRCA2*, *RAD51*, and genes related to homologous recombination (HR) and non-homologous end joining (NHEJ). Mutations in *BRCA1/2* paradoxically confer sensitivity to PARP inhibitors but can be associated with resistance to platinum-based chemotherapy and some forms of radiotherapy if HR deficiency isn't fully exploited therapeutically. Increased expression of enzymes like MGMT (O6-methylguanine-DNA methyltransferase), although not typically mutated in breast cancer, plays a role in repairing alkylation damage induced by agents like temozolomide (used in other cancers but relevant conceptually).
+
+**3. Impaired Apoptosis Pathways:**
+*   Apoptosis (programmed cell death) is a crucial mechanism for eliminating damaged cells after exposure to therapy. Defects in apoptotic machinery contribute significantly to resistance. Key players include:
+    *   ***BCL2* family members:**

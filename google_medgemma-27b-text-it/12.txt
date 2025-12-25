@@ -1,0 +1,17 @@
+Okay, let's break down how resistance patterns (specifically focusing on mutations) differ across lines of therapy for cancer treatment. This is complex because it depends heavily on the *specific* cancer type, but we can discuss general principles and examples using Non-Small Cell Lung Cancer (NSCLC) as a common illustration due to its well-characterized mutational landscape and evolving therapies. We will also touch upon breast cancer briefly.
+
+**General Principles:**
+
+1.  **Targeted Therapies Select for Resistance Mutations:** When you use targeted drugs against specific driver mutations (like EGFR or ALK), the tumor cells under pressure evolve mechanisms to bypass or overcome the drug's effect. These often involve secondary mutations within the target gene itself or activation of alternative signaling pathways.
+2.  **Chemotherapy Selects for Different Mechanisms:** Chemotherapy kills rapidly dividing cells. Resistance here often involves increased DNA repair capacity, reduced drug uptake/efflux pumps, altered metabolism, or evasion of apoptosis. While some specific mutations might be involved, it's less about single "driver" mutations compared to targeted therapy resistance.
+3.  **Immunotherapies Select for Immune Evasion:** Resistance to immune checkpoint inhibitors (ICIs) like anti-PD-1/PD-L1 antibodies often involves loss of neoantigens, downregulation of MHC molecules, defects in antigen presentation, or alterations in the tumor microenvironment (TME) making it immunosuppressive. Specific mutations related to these processes are increasingly identified.
+4.  **Sequential Therapy Creates Complex Landscapes:** As patients progress through multiple lines of therapy, they accumulate various resistance mechanisms from previous treatments. The dominant mechanism at any given time point reflects the history of exposures.
+5.  **Tumor Heterogeneity Matters:** Tumors aren't uniform. A primary tumor may contain subclones with different sensitivities and resistance profiles. Treatment selects for resistant clones, which then become dominant. Liquid biopsies help track clonal evolution over time.
+
+**Example: NSCLC - Line-Specific Resistance Patterns**
+
+Let's consider an adenocarcinoma patient with an activating *EGFR* mutation (e.g., exon 19 deletion or L858R).
+
+*   **First-Line Therapy (Typically EGFR TKI):**
+    *   **Primary Mechanism:** Activation of downstream signaling pathways (MET amplification, HER2 amplification, KRAS mutations).
+    *   **Secondary Target Mutation:** Acquisition of new *EGFR* mutations conferring TKI resistance. The most famous is **

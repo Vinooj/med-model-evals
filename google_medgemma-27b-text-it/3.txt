@@ -1,0 +1,28 @@
+Okay, let's break down the differences in resistance mechanisms between chemotherapy and radiotherapy. While there is some overlap (like increased DNA repair), several key mechanisms are more prominent or specific to one modality over the other.
+
+**Chemotherapy Resistance Mechanisms:**
+
+These often involve preventing the drug from reaching its target, reducing its effectiveness at the target site, or increasing the cell's ability to survive despite damage.
+
+1.  **Decreased Drug Uptake/Increased Efflux:**
+    *   Cancer cells can reduce the expression of transporters that bring drugs into the cell.
+    *   They can *increase* the expression of efflux pumps (like P-glycoprotein, MRP1) which actively pump the drug out of the cell before it reaches effective concentrations. This is a major mechanism for many chemo agents. **(More characteristic of Chemo)**
+
+2.  **Target Alteration:**
+    *   Mutations in the drug's molecular target (e.g., EGFR mutations conferring resistance to tyrosine kinase inhibitors).
+    *   Changes in protein levels or post-translational modifications affecting the target. **(Common to both but very significant in targeted chemo)**
+
+3.  **Drug Inactivation:**
+    *   Cells may increase enzymes that metabolize or conjugate the chemotherapeutic agent, rendering it inactive. For example, glutathione S-transferases inactivating platinum compounds. **(More characteristic of Chemo)**
+
+4.  **Enhanced DNA Repair:**
+    *   Upregulation of various DNA repair pathways (e.g., homologous recombination, non-homologous end joining, base excision repair) allows cells to fix the DNA damage caused by chemotherapy faster than the drug can cause further damage. **(Overlap - also important in Radioresistance)**
+
+5.  **Apoptosis Evasion:**
+    *   Downregulation of pro-apoptotic proteins (e.g., Bax, Bak) or upregulation of anti-apoptotic proteins (e.g., Bcl-2, Bcl-xL) prevents programmed cell death even when damaged.
+    *   Defects in p53 pathway, crucial for initiating apoptosis after DNA damage. **(Overlap - also relevant to Radiosensitivity)**
+
+6.  **Cell Cycle Checkpoint Modulation:**
+    *   Alterations in checkpoint controls allow cells with damaged DNA to progress through mitosis instead of undergoing arrest and repair/apoptosis. **(Overlap - also relevant to Radiosensitivity)**
+
+7.  **Epigenetic Modifications:**

@@ -1,0 +1,21 @@
+Stereotactic ablative radiotherapy (SABR), also known as stereotactic body radiotherapy (SBRT), is a highly precise form of radiation therapy that delivers high doses of radiation to a targeted tumor while minimizing exposure to surrounding healthy tissue. This precision makes SABR particularly effective for treating tumors that have developed resistance to systemic therapies, such as chemotherapy or targeted therapies.
+
+**Effects on Resistant Tumors:**
+
+1. **High Precision and Dose:** SABR can deliver a high dose of radiation to the tumor in a few treatment sessions. This high dose can overcome some forms of resistance by causing direct DNA damage and inducing cell death in cancer cells that might be less responsive to systemic therapies.
+
+2. **Local Control:** SABR is effective in achieving local control of tumors, meaning it can shrink or eliminate tumors at the site of treatment. This is particularly beneficial for oligometastatic disease, where a limited number of metastatic sites are present.
+
+3. **Immune Modulation:** There is evidence suggesting that SABR can modulate the immune system, potentially enhancing the body's ability to recognize and attack cancer cells. This abscopal effect, where radiation treatment of one tumor leads to regression of untreated tumors elsewhere in the body, is an area of active research.
+
+**Differences from Conventional Radiation:**
+
+1. **Treatment Duration:** Conventional radiation therapy typically involves lower doses of radiation delivered over a longer period (e.g., daily treatments for several weeks). In contrast, SABR delivers higher doses over a shorter period (e.g., 1-5 sessions).
+
+2. **Precision and Planning:** SABR requires advanced imaging and planning to accurately target the tumor, which allows for sparing of surrounding healthy tissue. Conventional radiation may affect a larger area, potentially leading to more side effects.
+
+3. **Indications and Use:** SABR is often used for small, well-defined tumors or metastases, whereas conventional radiation can be used for larger or more diffuse tumors.
+
+4. **Side Effects:** Due to its precision, SABR generally has fewer side effects compared to conventional radiation, although the high doses used can still lead to significant acute and late effects depending on the location of the tumor.
+
+Overall, SABR offers a potent option for treating tumors that have become resistant to systemic therapies, providing a means to achieve local control and potentially enhancing systemic anti-tumor responses.

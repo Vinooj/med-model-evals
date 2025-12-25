@@ -1,0 +1,79 @@
+This is a complex area of genomic oncology because breast cancer classification is moving from purely histological (what cells look like) to molecular (what genes are expressing). However, distinct histological subtypes do harbor specific genomic footprints.
+
+Here is a breakdown of where mutation patterns overlap and differ between **Invasive Ductal Carcinoma (IDC)**, **Invasive Lobular Carcinoma (ILC)**, **Inflammatory Breast Cancer (IBC)**, and select rare subtypes.
+
+---
+
+### 1. The Common Ground (Overlap)
+Regardless of histology, breast cancers share a "background" of mutations driven largely by their molecular subtype (Luminal A/B, HER2-enriched, or Basal-like).
+
+*   **PIK3CA:** This is the most common mutation in breast cancer overall (approx. 30-40%). It is heavily present in both IDC and ILC, particularly in Estrogen Receptor-positive (ER+) tumors.
+*   **TP53:** The hallmark of genomic instability. It is the dominant mutation in Triple-Negative (TNBC) and HER2+ cancers across all histological types.
+*   **MAP3K1 and MAP2K4:** Mutations in these stress-kinase pathways are common in ER+ tumors of both ductal and lobular origins, though frequencies differ.
+
+---
+
+### 2. Invasive Ductal Carcinoma (IDC - No Special Type)
+IDC is the most common histology (approx. 75-80% of cases). Because it is a "diagnosis of exclusion" (it lacks the specific features of other types), it is genetically heterogeneous.
+
+*   **The Pattern:** It generally mirrors the standard molecular subtype distribution.
+    *   **Luminal IDC:** High *PIK3CA*, *GATA3*, and *MAP3K1*.
+    *   **Basal-like IDC:** Near-universal *TP53* mutations; high frequency of *BRCA1/2* germline or somatic alterations.
+*   **Key Difference from ILC:** IDC retains E-cadherin expression (*CDH1* is wild-type/intact). This allows the cells to form cohesive glandular structures and ducts.
+*   **GATA3:** Mutations in *GATA3* (a transcription factor required for luminal cell differentiation) are highly specific to breast cancer and are seen frequently in IDC (approx. 10-15%).
+
+---
+
+### 3. Invasive Lobular Carcinoma (ILC)
+ILC (approx. 10-15% of cases) has the most distinct mutation profile compared to IDC.
+
+*   **The Defining Difference (*CDH1*):** The hallmark of ILC is the biallelic loss of *CDH1*, the gene encoding **E-cadherin**. This loss causes the cells to lose adhesion (discohesive), leading to the "single-file" growth pattern seen under a microscope. This mutation is rare in IDC.
+*   **Enriched Mutations (vs. IDC):**
+    *   **PIK3CA:** Slightly more frequent in ILC than IDC.
+    *   **PTEN:** Loss of *PTEN* is more common in ILC, leading to higher activation of the Akt pathway.
+    *   **FOXA1 & TBX3:** Mutations in these transcriptional regulators are significantly enriched in ILC compared to IDC.
+    *   **ERBB2/ERBB3 (HER2/HER3):** While HER2 *amplification* is less common in ILC, **activating mutations** in *ERBB2* and *ERBB3* are significantly more common in ILC than IDC. This has therapeutic implications for tyrosine kinase inhibitors.
+
+---
+
+### 4. Inflammatory Breast Cancer (IBC)
+IBC is a clinical diagnosis (redness, swelling, peau d'orange) rather than a distinct histology (most IBCs look like IDCs under the microscope). However, they have a distinct, aggressive molecular profile.
+
+*   **The Pattern:** IBC is characterized by massive genomic instability rather than a single unique point mutation.
+*   **TP53:** Extremely high frequency (significantly higher than stage-matched non-inflammatory IDC).
+*   **MYC:** High rates of *MYC* amplification.
+*   **RhoC GTPase:** While not a mutation, the overexpression of *RhoC* is a molecular signature of IBC, driving its high metastatic potential.
+*   **E-Cadherin Paradox:** Unlike ILC, IBC usually retains *CDH1* (E-cadherin). In fact, E-cadherin is often overexpressed, which allows IBC cells to form tight "tumor emboli" that block lymph vessels (causing the swelling).
+*   **TME Interactions:** IBC is defined heavily by mutations that affect the tumor microenvironment (TME), specifically signaling pathways involving *EGFR* and *NF-kB*.
+
+---
+
+### 5. Rare Histologies (The "Etc")
+
+#### Metaplastic Breast Cancer
+*   **Differentiation:** These are aggressive tumors where cells change from epithelial to mesenchymal types (spindle cells, squamous, etc.).
+*   **Wnt Pathway:** High frequency of **CTNNB1** (Beta-catenin) mutations and Wnt pathway activation.
+*   **PIK3CA & TP53:** Very high frequency of both, often co-occurring.
+*   **RPL39:** A specific mutation (A14V) in *RPL39* is rare generally but enriched in metaplastic breast cancer.
+
+#### Mucinous Carcinoma
+*   **Differentiation:** Generally less aggressive, ER+ tumors.
+*   **GATA3:** Very high frequency of *GATA3* mutations.
+*   **TP53:** *TP53* mutations are very rare (explaining the indolent nature).
+
+#### Medullary Carcinoma
+*   **Differentiation:** Often Triple Negative but with a better prognosis than standard TNBC; heavy immune infiltration.
+*   **TP53:** Almost universal *TP53* mutation.
+*   **BRCA1:** Strong association with *BRCA1* germline mutations or promoter methylation.
+
+---
+
+### Summary Table: Key Genomic Drivers
+
+| Histology | Primary "Signature" Mutation | Enriched Mutations | Key Absent/Intact Gene |
+| :--- | :--- | :--- | :--- |
+| **IDC (NST)** | Mirrors molecular subtype | *PIK3CA, TP53, GATA3* | *CDH1* is Intact |
+| **ILC** | **CDH1 (Loss)** | *FOXA1, TBX3, ERBB2/3* (mutations) | *CDH1* is Lost |
+| **IBC** | Genomic Instability / TME signaling | *TP53* (very high), *MYC* amp | *CDH1* Intact (Overexpressed) |
+| **Metaplastic** | EMT Pathway activation | *CTNNB1* (Wnt), *PIK3CA* | N/A |
+| **Mucinous** | Luminal drivers | *GATA3* (High) | *TP53* (Rare) |

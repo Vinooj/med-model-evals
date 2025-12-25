@@ -1,0 +1,5 @@
+Yes, certain subsets of breast cancer patients are more likely to develop resistance to treatments. Triple-negative breast cancer (TNBC) is one such subset. TNBC lacks estrogen receptors, progesterone receptors, and excess HER2 protein, which makes it unresponsive to some of the most effective hormonal and targeted therapies available for other types of breast cancer. This often leads to a more aggressive disease course and a higher likelihood of developing resistance to chemotherapy, which is the primary treatment option for TNBC.
+
+Metastatic breast cancer, regardless of subtype, also tends to develop resistance over time. As cancer cells are exposed to treatments, they can undergo genetic changes that allow them to survive and proliferate despite therapy. This is a significant challenge in managing metastatic disease, as it often requires changing treatment strategies and exploring clinical trials for new therapies.
+
+Research is ongoing to better understand the mechanisms of resistance in these and other subsets of breast cancer, with the goal of developing more effective treatments and overcoming resistance.

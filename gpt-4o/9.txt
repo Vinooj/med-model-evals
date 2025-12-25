@@ -1,0 +1,9 @@
+Radionomics is an emerging field that involves extracting large amounts of quantitative features from medical imaging data, which can then be used to inform clinical decision-making. The concept is that these imaging features can reveal underlying tumor characteristics, including genetic and molecular profiles, which might not be visible to the naked eye.
+
+The relationship between radionomics and resistance patterns, particularly in oncology, is an area of active research. Resistance patterns refer to how tumors resist treatment, which can be due to various mechanisms, including genetic mutations, changes in the tumor microenvironment, or other molecular alterations.
+
+There is growing interest in using radionomics to predict or understand resistance mechanisms. Some studies have suggested that radionomic features can correlate with certain genetic mutations or molecular profiles that are known to confer resistance to therapies. For example, in some cancers, specific imaging features have been associated with mutations in genes like EGFR or KRAS, which are known to influence treatment response.
+
+However, while there is promising research, the field is still developing, and more studies are needed to establish consistent and statistically significant correlations between radionomics and resistance mechanisms across different types of cancer and treatments. The current literature includes a mix of retrospective studies, pilot studies, and some prospective trials, but larger, multicenter studies are necessary to validate these findings and integrate them into clinical practice.
+
+In summary, while there is some evidence suggesting a correlation between radionomics and resistance patterns, the field is still evolving, and more robust research is needed to confirm these findings and understand their clinical implications fully.

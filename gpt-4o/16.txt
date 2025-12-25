@@ -1,0 +1,15 @@
+Pre-operative radiotherapy is commonly used in the treatment of certain cancers, such as rectal cancer, to reduce tumor size and improve surgical outcomes. There is evidence in the literature suggesting that pre-operative radiotherapy can also impact the tumor microenvironment and potentially reduce the rate of resistance to subsequent treatments. This is thought to occur through various mechanisms, including the induction of DNA damage, alteration of the tumor vasculature, and modulation of the immune response.
+
+Regarding gene expression changes, radiotherapy can lead to alterations in the expression of genes involved in DNA repair, cell cycle regulation, apoptosis, and immune response. Some of the key changes observed include:
+
+1. **DNA Repair Genes**: Radiotherapy can downregulate genes involved in DNA repair pathways, such as BRCA1 and RAD51, making cancer cells more susceptible to DNA damage.
+
+2. **Cell Cycle Regulation**: Genes like CDKN1A (p21) and TP53 (p53) may be upregulated, leading to cell cycle arrest and allowing time for DNA repair or apoptosis.
+
+3. **Apoptosis**: Pro-apoptotic genes such as BAX and BAK may be upregulated, while anti-apoptotic genes like BCL2 may be downregulated, promoting cell death in response to radiation-induced damage.
+
+4. **Immune Response**: Radiotherapy can enhance the expression of genes involved in the immune response, such as those encoding for cytokines and chemokines, which can help recruit immune cells to the tumor site and enhance anti-tumor immunity.
+
+5. **Hypoxia-Related Genes**: Radiotherapy can alter the expression of genes related to hypoxia, such as HIF1A, which may affect tumor oxygenation and sensitivity to treatment.
+
+It's important to note that the specific gene expression changes can vary depending on the type of cancer, the radiation dose, and the individual patient's tumor biology. Ongoing research continues to explore these molecular changes to better understand how radiotherapy can be optimized to reduce resistance and improve treatment outcomes.

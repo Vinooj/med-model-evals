@@ -1,0 +1,15 @@
+**Stereotactic Ablative Radiotherapy (SABR) and Resistant Tumors:**
+
+SABR is a highly precise form of external beam radiation therapy that delivers very high doses of radiation to a small, well-defined tumor target in just one or a few treatment sessions. This approach can be particularly effective against tumors that have become resistant to systemic therapies (like chemotherapy, targeted therapy, immunotherapy). Here's how it works and why it might overcome some forms of resistance:
+
+1.  **High Dose per Fraction:** SABR uses significantly higher doses of radiation *per fraction* compared to conventional radiotherapy. While the total dose over the course of treatment might be similar or slightly lower than conventional RT, delivering it in fewer fractions means each individual session packs a much stronger punch. This intense localized dose delivery can overwhelm cancer cells, even those with mechanisms of resistance to lower-dose treatments or systemic drugs.
+
+2.  **Overcoming Resistance Mechanisms:** Some common resistance mechanisms to systemic therapy include:
+    *   **Drug Efflux Pumps:** Cancer cells pump out chemo/targeted drugs before they can exert their effect. High-intensity radiation doesn't rely on drug uptake; its damage is primarily physical.
+    *   **Target Alterations:** Mutations prevent targeted therapies from binding effectively. Radiation damages DNA directly, which may bypass the need for specific molecular targets.
+    *   **DNA Repair Enhancement:** Cells develop enhanced repair pathways after exposure to certain chemotherapies. The sheer intensity of SABR aims to cause irreparable DNA damage exceeding the cell’s capacity to fix it within the short timeframe between fractions.
+    *   **Tumor Microenvironment Changes:** Systemic therapies struggle to penetrate dense tumor tissue or navigate immunosuppressive microenvironments. SABR focuses intensely on the visible tumor mass, potentially causing vascular shutdown and altering the local environment more drastically than conventional techniques.
+    * **Cell Cycle Arrest / Dormancy**: Some cancers enter a quiescent state making them less susceptible to cycle-specific agents like many chemotherapies. Radiation affects both dividing and non-dividing cells, although rapidly proliferating cells are generally more sensitive. The high dose delivered by SABR increases the likelihood of damaging dormant cells as well.
+
+
+3.  **Hypoxia Targeting:** Many tumors contain hypoxic (low oxygen) regions, which are notoriously resistant to both chemotherapy and conventional radiotherapy. While hypoxia still confers some radioresistance, the extremely high single fraction doses used in SABR aim to deliver enough energy to kill cells even under these conditions. Furthermore,

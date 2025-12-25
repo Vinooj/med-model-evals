@@ -1,0 +1,9 @@
+In metastatic breast cancer, resistance to systemic therapy is a significant challenge. While specific percentages can vary based on the subtype of breast cancer, the type of therapy, and individual patient factors, some general trends are observed:
+
+1. **First-line therapy**: A substantial proportion of patients with metastatic breast cancer will eventually develop resistance to first-line systemic therapy. Studies suggest that most patients will experience disease progression within 12 to 18 months of starting first-line treatment, indicating that a majority develop resistance over time.
+
+2. **Second-line therapy**: Resistance to second-line therapy tends to occur more quickly than with first-line therapy. The median time to progression is often shorter, typically around 6 to 12 months, suggesting that a significant percentage of patients will develop resistance within this timeframe.
+
+3. **Third-line and beyond**: As patients move to third-line and subsequent lines of therapy, the likelihood of developing resistance increases, and the duration of response generally decreases. The median time to progression can be as short as 3 to 6 months, indicating that resistance is common and occurs relatively quickly.
+
+Overall, while exact percentages can vary, it is generally observed that resistance becomes more common and occurs more rapidly with each successive line of therapy. This highlights the need for ongoing research into new treatments and strategies to overcome or delay resistance in metastatic breast cancer.

@@ -1,0 +1,85 @@
+To determine how long it takes for metastatic patients to develop resistance, oncologists look at **Median Progression-Free Survival (mPFS)**. This metric represents the length of time during and after the treatment that a patient lives with the disease but it does not get worse.
+
+However, "time to resistance" varies wildly based on the **cancer type** (biology), the **line of therapy** (1st line vs. 3rd line), and the **tumor burden**.
+
+Here is the breakdown of average time to resistance by therapeutic class, based on major Phase III clinical trial data.
+
+---
+
+### 1. Immunotherapy (PD-1/PD-L1 Inhibitors)
+*Examples: Pembrolizumab (Keytruda), Nivolumab (Opdivo), Atezolizumab (Tecentriq)*
+
+Immunotherapy is unique. Unlike chemotherapy, which has a bell-curve response, immunotherapy often has a "long tail." A significant percentage of patients have **primary resistance** (it never works), while a smaller subset has durable responses that last for years.
+
+*   **Average Time to Resistance (mPFS):** **6 to 12 months** (for the general population).
+*   **The "Super-Responder" Nuance:** If a patient responds initially, the **Duration of Response (DoR)** is often much longer than the median PFS, frequently exceeding **24+ months**.
+
+**Specific Contexts:**
+*   **Metastatic Non-Small Cell Lung Cancer (NSCLC):**
+    *   *Monotherapy:* ~7–10 months.
+    *   *Combo (Chemo + Immuno):* ~9–12 months.
+*   **Metastatic Melanoma:**
+    *   Resistance often develops later; mPFS is roughly **11–15 months**, but ~50% of patients may remain progression-free for years.
+
+---
+
+### 2. Chemotherapy (Cytotoxics)
+*Examples: Doxorubicin, Paclitaxel, Capecitabine*
+
+Chemotherapy resistance usually follows the law of diminishing returns. First-line therapy lasts the longest; subsequent lines fail faster as the tumor evolves and develops efflux pumps (mechanisms to spit the drug out of the cell).
+
+*   **Average Time to Resistance (mPFS):** **6 to 9 months** (1st line).
+*   **Later Lines:** Drops to **3 to 5 months**.
+
+**Specific Contexts:**
+*   **Metastatic Breast Cancer (Taxanes/Anthracyclines):**
+    *   *Paclitaxel/Doxorubicin:* Resistance typically develops within **6–10 months**.
+    *   *Capecitabine:* Often used in later lines; resistance typically develops in **4–6 months**.
+*   **Metastatic Pancreatic Cancer:**
+    *   Resistance is very rapid; mPFS is often only **3–6 months**.
+
+---
+
+### 3. Targeted Therapy
+Targeted therapies often have high initial response rates (the tumor shrinks quickly), but the cancer almost inevitably finds a "bypass track" (a secondary mutation) to overcome the drug.
+
+#### A. PARP Inhibitors
+*Examples: Olaparib (Lynparza), Talazoparib, Niraparib*
+These are most effective in BRCA-mutated cancers (Ovarian, Breast, Prostate, Pancreatic).
+
+*   **Metastatic Breast Cancer (BRCA+):**
+    *   Time to resistance: **~7 to 9 months**.
+    *   *Note:* While effective, resistance develops relatively quickly in metastatic breast cancer compared to ovarian cancer.
+*   **Ovarian Cancer (Platinum-Sensitive Relapse):**
+    *   Time to resistance: **~15 to 19 months**.
+    *   *Note:* In ovarian cancer, PARP inhibitors are often used as "maintenance" (to keep the cancer away after chemo), resulting in much longer intervals before resistance returns.
+
+#### B. NTRK Inhibitors
+*Examples: Larotrectinib (Vitrakvi), Entrectinib*
+These are used in "tumor-agnostic" settings (treating the mutation, not the organ). These drugs are incredibly potent for the rare patients who have NTRK fusions.
+
+*   **Average Time to Resistance:** **Very Long (12 to 35+ months).**
+*   **Data:** In pooled analyses, the median duration of response is often **35 months** or median has not yet been reached. Resistance eventually occurs via "solvent front mutations" (changes in the kinase shape), but these drugs provide some of the longest protection against resistance in modern oncology.
+
+#### C. Other Common Targeted Therapies (Contextual Benchmarks)
+*   **EGFR Inhibitors (Lung Cancer - Osimertinib):** Resistance typically develops in **~18 months**.
+*   **CDK4/6 Inhibitors (Breast Cancer - Palbociclib + Hormonal Therapy):** Resistance typically develops in **~24 to 28 months**.
+
+---
+
+### Summary Table: Estimated Time to Resistance (mPFS)
+
+| Therapy Type | Drug Examples | Typical Indication | Approx. Time to Resistance |
+| :--- | :--- | :--- | :--- |
+| **Immunotherapy** | Pembrolizumab | Lung Cancer (1st Line) | **8 – 10 Months** |
+| **Immunotherapy** | Nivolumab+Ipi | Melanoma | **11 – 15 Months** |
+| **Chemotherapy** | Paclitaxel / Doxorubicin | Breast Cancer (Metastatic) | **6 – 9 Months** |
+| **Chemotherapy** | Capecitabine | GI / Breast (Later lines) | **4 – 6 Months** |
+| **Targeted (PARP)** | Olaparib | Breast Cancer (BRCA+) | **7 – 9 Months** |
+| **Targeted (PARP)** | Olaparib | Ovarian (Maintenance) | **15 – 19 Months** |
+| **Targeted (NTRK)**| Larotrectinib | Solid Tumors (NTRK+) | **25 – 35+ Months** |
+
+### Why does resistance happen?
+1.  **Target Alteration:** The tumor mutates the specific protein the drug is attacking (common in Targeted Therapy).
+2.  **Drug Efflux:** The tumor cells build pumps to push chemotherapy out of the cell.
+3.  **Microenvironment Changes:** The tumor recruits immune-suppressing cells to block T-cells (common in Immunotherapy).

@@ -1,0 +1,70 @@
+Based on current oncological literature, the answer to your question is complex and nuanced. It depends on whether you are defining "resistance" as **clinical recurrence** (the tumor coming back) or **biological/cellular resistance** (the remaining cells becoming harder to kill).
+
+Here is a breakdown of the data regarding pre-operative (neoadjuvant) radiotherapy (RT) and gene expression changes.
+
+### 1. Does Pre-operative RT Reduce the Rate of Resistance?
+
+**Clinically: Yes.**
+In terms of clinical outcomes, pre-operative radiotherapy (often combined with chemotherapy) significantly reduces the rate of **local recurrence** in many cancers (notably locally advanced rectal cancer, sarcomas, and esophageal cancer). By debulking the tumor and sterilizing the margins before surgery, it reduces the "resistance" of the tumor to surgical cure.
+
+**Biologically: It is a Double-Edged Sword.**
+At the cellular level, the literature suggests that radiotherapy often **induces** adaptive resistance mechanisms in the surviving tumor cells. While RT kills the bulk of sensitive cells, the residual cells (those that survive pre-op RT) often display a more aggressive, resistant phenotype.
+
+*   **Selection Pressure:** RT kills non-stem cancer cells, potentially enriching the tumor population with **Cancer Stem Cells (CSCs)**, which are inherently resistant to both radiation and chemotherapy.
+*   **Adaptive Response:** The stress of radiation triggers signaling pathways that upregulate DNA repair and survival mechanisms.
+
+**However, there is a specific exception:**
+RT can reduce resistance to **Immunotherapy**. Radiation can turn a "cold" tumor (resistant to immune attack) into a "hot" tumor by releasing antigens and pro-inflammatory cytokines, thereby sensitizing the tumor to checkpoint inhibitors (the Abscopal Effect).
+
+---
+
+### 2. What Gene Expression Levels Change When Radiotherapy is Added?
+
+When pre-operative radiotherapy is administered, the gene expression profiles of the residual tumor cells change significantly. These changes generally reflect the tumor's attempt to survive the radiation stress.
+
+The literature highlights four major categories of gene expression changes:
+
+#### A. Upregulation of DNA Repair Genes (Inducing Radio/Chemo-resistance)
+To survive radiation-induced DNA damage, tumor cells upregulate repair pathways. This often makes them resistant to subsequent chemotherapy (like platinums) or further radiation.
+*   **Genes Upregulated:**
+    *   **ATM / ATR:** Key sensors of DNA damage.
+    *   **DNA-PKcs / KU70 / KU80:** Involved in Non-Homologous End Joining (NHEJ) repair.
+    *   **RAD51 / BRCA1:** Involved in Homologous Recombination repair.
+    *   **PARP1:** An enzyme that repairs single-strand breaks.
+
+#### B. Hypoxia and Angiogenesis Markers
+Radiation can damage tumor blood vessels, leading to hypoxia (low oxygen). Hypoxic cells are naturally more resistant to radiation (which requires oxygen to create free radicals) and chemotherapy.
+*   **Genes Upregulated:**
+    *   **HIF-1$\alpha$ (Hypoxia-inducible factor 1-alpha):** The master regulator of the hypoxic response. High levels correlate with poor prognosis and resistance.
+    *   **VEGF (Vascular Endothelial Growth Factor):** Upregulated by HIF-1$\alpha$ to create new blood vessels, often leading to aggressive regrowth.
+
+#### C. Cancer Stem Cell (CSC) Markers & Epithelial-Mesenchymal Transition (EMT)
+Literature suggests that pre-op RT can induce EMT, a process where cells become more mobile and invasive, and enrich for stem-like properties.
+*   **Genes Upregulated:**
+    *   **CD133, CD44, ALDH1:** Classic markers of cancer stem cells.
+    *   **Snail, Slug, Twist, Vimentin:** Transcription factors that drive EMT.
+    *   **E-cadherin (Downregulated):** Loss of this gene allows cells to detach and migrate (metastasis).
+
+#### D. Immune Checkpoint Ligands (The "Sensitization" Opportunity)
+This is the area of greatest current research interest. Radiation causes stress signaling that changes how the tumor interacts with the immune system.
+*   **Genes Upregulated:**
+    *   **PD-L1 (Programmed death-ligand 1):** Radiation often causes a spike in PD-L1 expression on tumor cells (mediated by IFN-$\gamma$ signaling).
+    *   *Significance:* While high PD-L1 is a mechanism of resistance (it turns off T-cells), **it paradoxically makes the tumor a better target for anti-PD-L1/PD-1 immunotherapy drugs.**
+
+### Summary Table of Gene Changes
+
+| Pathway | Key Genes | Effect of Pre-op RT | Consequence |
+| :--- | :--- | :--- | :--- |
+| **DNA Repair** | *ATM, XRCC1, ERCC1* | **Upregulated** | Increased resistance to DNA-damaging chemo (Cisplatin/5-FU). |
+| **Hypoxia** | *HIF-1$\alpha$, CA9* | **Upregulated** | Metabolic adaptation; resistance to further RT. |
+| **Survival** | *AKT, mTOR, NF-$\kappa$B* | **Upregulated** | Anti-apoptosis (cells refuse to die). |
+| **Stemness** | *CD133, Oct4* | **Upregulated** | Enrichment of cells capable of repopulating the tumor. |
+| **Immune** | *PD-L1* | **Upregulated** | Adaptive immune resistance (but sensitizes to Immunotherapy). |
+
+### Clinical Implication
+Because pre-operative RT upregulates these resistance genes (particularly *ERCC1* and *HIF-1$\alpha$*), clinicians often use **Chemoradiotherapy (CRT)** rather than RT alone. The chemotherapy acts as a radiosensitizer to counteract these survival mechanisms, while the radiation targets the bulk tumor.
+
+*References for further reading:*
+*   *Standard of care in Rectal Cancer (The Dutch trial, CAO/ARO/AIO-94).*
+*   *Studies on Radiation-induced EMT (Epithelial-Mesenchymal Transition).*
+*   *Literature on the Abscopal Effect and PD-L1 upregulation post-radiation.*

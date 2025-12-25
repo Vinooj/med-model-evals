@@ -1,0 +1,20 @@
+This is a complex question with no single definitive answer, as the changes in gene expression and mutation status upon development of resistance can vary significantly depending on several factors. Here's a breakdown of the key concepts and common scenarios observed:
+
+**Factors Influencing Changes:**
+
+*   **Targeted Agent Mechanism of Action:** The specific way the drug works dictates which pathways become relevant for resistance. For example, drugs targeting kinases might lead to upstream pathway activation or downstream effector alterations. Drugs inhibiting DNA repair might select for alternative repair mechanisms.
+*   **Specific Gene/Mutation Involved:** Different genes have different roles, and their alteration during resistance will reflect that role. A driver mutation like *PIK3CA* might be lost, while a passenger mutation could potentially gain importance.
+*   **Tumor Type & Context:** Resistance mechanisms differ across cancer types (e.g., breast vs. lung) and even within subtypes.
+*   **Initial Sensitivity Profile:** Was the initial response strong or weak? Did the tumor initially rely heavily on the target pathway?
+*   **Time Course:** Changes may occur rapidly or gradually over time.
+
+**Common Scenarios Observed During Resistance Development:**
+
+1.  **Loss of Target Mutation / Allelic Loss:**
+    *   **Mechanism:** If the drug targets a specific activating mutation (like *EGFR*, *BRAF*, *PIK3CA*), the tumor cells might lose one copy of the mutated allele through loss of heterozygosity (LOH) or other genetic events. This reduces the amount of the target protein available for the drug to bind to.
+    *   **Expression Change:** Decreased mRNA and protein expression of the mutated gene product.
+    *   **Example:** Acquired resistance to EGFR inhibitors in NSCLC often involves secondary mutations in *EGFR* itself (*T790M*) or amplification of MET, but LOH of the original sensitizing mutation can also contribute. Similarly, loss of *PIK3CA* mutations has been seen in some cases of acquired resistance to PI3K inhibitors.
+
+2.  **Acquisition of Secondary Mutations in the Target Pathway:**
+    *   **Mechanism:** Tumors develop new mutations elsewhere in the same signaling pathway, bypassing the block imposed by the targeted agent. These mutations activate the pathway independently of the primary target.
+    *   **Expression Change:** Can involve increased or decreased expression of involved proteins depending on the nature of the mutation (activating vs. inactivating) and its effect

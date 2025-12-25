@@ -1,0 +1,51 @@
+The short answer is that **nearly 100%** of patients with metastatic breast cancer (MBC) will eventually develop resistance to 1st, 2nd, 3rd, and 4th line therapies, provided they survive long enough to receive them.
+
+Because metastatic breast cancer is currently considered treatable but not curable, the goal of therapy is to control the disease for as long as possible. "Resistance" in this context is clinically defined as **disease progression** (the tumor starts growing again).
+
+Here is the breakdown of how resistance develops across different lines of therapy, using **Progression-Free Survival (PFS)** and **Objective Response Rates (ORR)** as the metrics.
+
+### The General Trend: Diminishing Returns
+As a patient moves from 1st line to 4th line therapy, two things happen:
+1.  **Resistance happens faster:** The duration of disease control (PFS) becomes shorter with each line.
+2.  **Response rates drop:** The percentage of patients whose tumors shrink (ORR) decreases significantly.
+
+---
+
+### 1st Line Therapy
+*   **Resistance Rate:** Eventually **~100%** (Acquired Resistance).
+*   **Intrinsic Resistance:** **15–20%** of patients do not respond at all to the initial treatment (the drug never works).
+*   **Duration of Control:** This is the "gold standard" period where treatments work the longest.
+    *   *HR+/HER2- (e.g., CDK4/6 inhibitors + Endocrine Therapy):* The median time to resistance is roughly **24–28 months**.
+    *   *HER2+ (e.g., Taxane + Trastuzumab + Pertuzumab):* The median time to resistance is roughly **18–24 months** (though some patients have exceptional long-term responses).
+    *   *Triple Negative (TNBC):* Resistance develops quickly, often within **5–8 months**.
+
+### 2nd Line Therapy
+By the time a patient reaches 2nd line, the tumor has evolved mechanisms to evade treatment.
+*   **Resistance Rate:** **~100%**.
+*   **Efficacy:** The probability of the drug shrinking the tumor drops significantly compared to the first line.
+*   **Duration:**
+    *   For HR+ patients, the time to resistance drops to approximately **6–10 months**.
+    *   Response rates generally hover around **20–30%**. This means 70–80% of patients have tumors that either stay the same size or grow despite treatment.
+
+### 3rd Line Therapy
+*   **Clinical Context:** At this stage, the cancer is highly resistant and heterogeneous (different cells within the tumor have different mutations).
+*   **Duration:** The median time to progression is often **3–5 months**.
+*   **Response Rate:** Only about **10–15%** of patients will see their tumors shrink significantly.
+*   **Primary Resistance:** A large percentage (often >50%) of patients will see no benefit at all; the cancer will simply continue to grow through the medication.
+
+### 4th Line Therapy and Beyond
+*   **Clinical Context:** Treatment is often palliative chemotherapy.
+*   **Duration:** The median time to resistance is very short, often **2–3 months**.
+*   **Response Rate:** Often **<10%**.
+*   **Attrition:** It is important to note that many patients do not make it to 4th line therapy. Due to the cumulative toxicity of previous treatments and the decline in physical health (performance status), only about **15–25%** of patients who start 1st line therapy remain healthy enough to receive 4th line therapy.
+
+### Summary Table: The "Cascade" of Resistance
+
+| Therapy Line | Approx. Response Rate (Tumor Shrinkage) | Median Time to Resistance (PFS) |
+| :--- | :--- | :--- |
+| **1st Line** | 50–80% (depending on subtype) | 12–28 months |
+| **2nd Line** | 20–40% | 6–10 months |
+| **3rd Line** | 10–20% | 3–5 months |
+| **4th Line** | <10% | 2–3 months |
+
+***Disclaimer:** These figures are averages based on large clinical trials and vary heavily based on the biology of the cancer (HR+ vs. TNBC vs. HER2+) and the specific drugs used (e.g., antibody-drug conjugates like Enhertu are currently changing these statistics by offering better response rates in later lines).*

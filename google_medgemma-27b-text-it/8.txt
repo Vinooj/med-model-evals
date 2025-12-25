@@ -1,0 +1,16 @@
+Okay, let's break down the overlapping and differing mutation patterns across various breast cancer histologies. This is a complex area with ongoing research, but here’s a summary of key findings based on current understanding (primarily from large-scale genomic studies like TCGA, METABRIC, and others).
+
+**Key Histologies to Consider:**
+
+*   **Invasive Ductal Carcinoma (IDC):** The most common type (~80% of invasive cancers), characterized by ducts forming solid sheets or cords. Often further subdivided into subtypes like Luminal A/B, HER2-enriched, Basal-like, Triple Negative Breast Cancer (TNBC - often overlaps significantly with Basal-like).
+*   **Invasive Lobular Carcinoma (ILC):** Characterized by small, uniform cells infiltrating tissues in single files ("Indian file" pattern) due to loss of E-cadherin function. Accounts for ~10-15%.
+*   **Inflammatory Breast Cancer (IBC):** Rare (<5%), aggressive form where cancer cells block lymph vessels causing skin changes (redness, swelling, warmth). Can be any underlying histology (often IDC) but has distinct clinical behavior.
+*   **Metastatic Breast Cancer (MBC):** Not a primary histology *per se*, but represents advanced disease that can arise from any initial histology. Mutation profiles evolve during metastasis.
+*   **Triple-Negative Breast Cancer (TNBC):** Defined by lack of ER, PR, and HER2 expression. It encompasses several molecular subtypes, including basal-like, claudin-low, metaplastic, medullary, and some unclassified types. TNBC is not strictly defined by histology alone, though it frequently corresponds to IDC or less commonly other histologies.
+
+**Overlapping Mutations Across Most Invasive Breast Cancers (IDC, ILC, IBC, TNBC):**
+
+These are mutations found relatively frequently across many different histological types, although their prevalence might vary slightly depending on subtype within those histologies.
+
+1.  **PIK3CA:** Activating mutations in this gene encoding the p110α catalytic subunit of PI3K are very common overall (~20-40%). They are particularly frequent in hormone receptor-positive (HR+) tumors (Luminal A/B) regardless of histology (IDC vs. ILC). These mutations contribute to activation of the PI3K pathway, promoting cell growth and survival.
+2.  **TP53:** In
