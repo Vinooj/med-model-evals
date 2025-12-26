@@ -16,6 +16,7 @@ def generate_index():
         ("GPT-4o", "gpt-4o"),
         ("Gemini 3 Pro", "gemini-3-pro-preview"),
         ("MedGemma 27B", "google_medgemma-27b-text-it"),
+        ("Perplexity", "perplexity"),
     ]
 
     # Start Markdown content
@@ -35,7 +36,11 @@ def generate_index():
         row = f"| **{i}** | {q_snippet} | "
         
         for _, folder in models:
+            # Check for .txt first, then .md
             file_path = f"{folder}/{i}.txt"
+            if not os.path.exists(file_path):
+                file_path = f"{folder}/{i}.md"
+
             if os.path.exists(file_path):
                 row += f"[View]({file_path}) | "
             else:
