@@ -36,10 +36,8 @@ def generate_index():
         row = f"| **{i}** | {q_snippet} | "
         
         for _, folder in models:
-            # Check for .txt first, then .md
-            file_path = f"{folder}/{i}.txt"
-            if not os.path.exists(file_path):
-                file_path = f"{folder}/{i}.md"
+            # Look for .md files
+            file_path = f"{folder}/{i}.md"
 
             if os.path.exists(file_path):
                 row += f"[View]({file_path}) | "
