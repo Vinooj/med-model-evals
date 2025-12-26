@@ -17,6 +17,7 @@ def generate_index():
         ("Gemini 3 Pro", "gemini-3-pro-preview"),
         ("MedGemma 27B", "google_medgemma-27b-text-it"),
         ("Perplexity", "perplexity"),
+        ("OpenEvidence", "openevidence"),
     ]
 
     # Start Markdown content
